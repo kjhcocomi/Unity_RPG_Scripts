@@ -47,6 +47,7 @@
 ![6](https://github.com/kjhcocomi/Unity_RPG_Scripts/blob/main/Images/6.png)
 ![7](https://github.com/kjhcocomi/Unity_RPG_Scripts/blob/main/Images/7.png)
 ![8](https://github.com/kjhcocomi/Unity_RPG_Scripts/blob/main/Images/8.png)
-## 6. 문서
+## 6. 링크
+- [플레이 영상](https://youtu.be/8DtsXO9Uk0E)
 - [이동 동기화, 콤보공격](https://docs.google.com/presentation/d/1vx5eWriDmBu2DHMmPzD-YKcuhqhExtZAgpVnUIIViMs/edit?usp=sharing)
 - [Blog](https://kjhcocomi.tistory.com/category/%EC%9C%A0%EB%8B%88%ED%8B%B0/C%23%20%EC%84%9C%EB%B2%84%20%EC%97%B0%EB%8F%99%20%EC%9C%A0%EB%8B%88%ED%8B%B0%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
